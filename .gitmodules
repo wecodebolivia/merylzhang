@@ -1,0 +1,4 @@
+[submodule "wecodebolivia/product_access_restriction"]
+	path = wecodebolivia/product_access_restriction
+	url = git@github.com:wecodebolivia/product_access_restriction.git
+	branch = 14.0.1.0.1
