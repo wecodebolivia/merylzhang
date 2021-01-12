@@ -2,3 +2,8 @@
 	path = wecodebolivia/product_access_restriction
 	url = git@github.com:wecodebolivia/product_access_restriction.git
 	branch = 14.0.1.0.1
+
+[submodule "wecodebolivia/sale_invoice_tags_pass"]
+	path = wecodebolivia/sale_invoice_tags_pass
+	url = git@github.com:wecodebolivia/sale_invoice_tags_pass.git
+	branch = 14.1.4
